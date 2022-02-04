@@ -1,4 +1,4 @@
-# Minecraft Theme Matching Game
+# Math Calculator
 A simple calculator implement simple math operators and trig function.
 
 ![PIC.png](https://i.ibb.co/937xZxq/Calculator.png)
